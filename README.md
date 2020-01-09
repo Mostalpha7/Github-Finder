@@ -1,2 +1,2 @@
 # Mplus 
-Github finger
+Github finder
